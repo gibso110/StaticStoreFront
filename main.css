@@ -1,0 +1,139 @@
+h1{
+color: white;
+text-align: center;
+font-family: 'Yuji Boku', serif;
+font-size: 8rem;
+
+}
+
+p{
+  color: white;
+  font-family: 'Yuji Boku', serif;
+}
+body{
+  background-color:#1d1135;
+  
+ 
+}
+
+#navbar{
+
+  background-color: black;
+}
+
+.webHead{
+ 
+  border: none;
+  height: 300px;
+}
+
+.footer{
+  height: 50%;
+  background-color: #0c164f;
+  
+}
+
+.form-inline{
+margin-right: 5%;
+padding-right: 2px;
+}
+
+#dropdownMenuButton{
+margin-left: 600%;
+
+}
+.dropdown-menu{
+margin-left: 570%;
+}
+
+.carImg{
+  height: 100px;
+  width: 100px;
+}
+
+.carousel-inner{
+  height: 300px;
+  width: 300px;
+  margin-left: 550px;
+}
+
+.aboutMe{
+  margin-top: 50px;
+  width: 200px;
+  height: 700px;
+  margin-left: 1200px;
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+  border-radius: 5px;
+  padding: 4px;
+  background-color: #ba1e68;
+}
+
+.Links{
+  height: 700px;
+  width: 1100px;
+  border: solid;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: white;
+  position:static;
+  margin-top: -700px ;
+  margin-bottom: 20px;
+  font-size: 3rem;
+  background-image: url(./images/stars.jpg);
+
+}
+
+.avatar{
+  border-radius: 50px;
+  height: 80px;
+  width: 80px;
+  
+}
+
+.linkIMG{
+
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+
+}
+#link1{
+  margin-left: 100px;
+  margin-top:-20px;
+  padding:10px;
+  position: absolute;
+}
+
+#link2{
+  margin-left: 450px;
+  margin-top:100px;
+  padding:10px;
+  position: absolute;
+}
+
+#link3{
+  margin-left: 780px;
+  margin-top:300px;
+  padding:10px;
+  position: absolute;
+}
+
+#buyArt{
+margin-left: 150px;
+text-decoration: underline;
+}
+
+#comArt{
+  margin-left: 450px;
+  position: absolute;
+  text-decoration: underline;
+}
+
+#nfts{
+  margin-left: 850px;
+  position: absolute;
+  margin-top: 200px;
+  text-decoration: underline;
+}
